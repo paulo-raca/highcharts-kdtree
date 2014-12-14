@@ -10,3 +10,10 @@ Advantages:
 Disadvantages:
 - Won't work on shared tooltip and probably number of other special cases.
 - This might not be what you want
+
+DEMO
+====
+
+http://jsfiddle.net/9fab6kog/
+
+This demo is based on the Extended Heatmap Demo (http://www.highcharts.com/demo/heatmap-canvas), modified to use this plugin instead of the inline code

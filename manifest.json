@@ -13,13 +13,15 @@
         }
     ],
     "dependencies": {
-        "highcharts": "4.0.4",
+        "highcharts": "4.0.4"
     },
     "description": "This plugin uses a tree structure to select the nearest marker and display it's tooltips, instead of relying on the marker's SVG shapes.\nThis code comes from Extended Heatmap Demo, with minor modifications: http://www.highcharts.com/demo/heatmap-canvas",
     "keywords": [
         "kdtree",
-        "tooltip"
+        "tooltip",
+        "nearest"
     ],
     "demo": [
+		"http://jsfiddle.net/w7ga0rbs/"
     ]
 }
